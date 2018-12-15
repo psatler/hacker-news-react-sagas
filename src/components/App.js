@@ -5,7 +5,7 @@ import Stories from './Stories'
 
 const App = ({ stories }) => 
     <div className="app">
-        <Stories stories={stories} />
+        <Stories stories={stories} onArchive={() => {}} />
     </div>
 
 export default App
