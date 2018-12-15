@@ -3,9 +3,9 @@ import './App.css'
 
 import Stories from './Stories'
 
-const App = ({ stories }) => 
+const App = () => 
     <div className="app">
-        <Stories stories={stories} onArchive={() => {}} />
+        <Stories />
     </div>
 
 export default App
