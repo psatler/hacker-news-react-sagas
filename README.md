@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Part 1](https://medium.com/appsflyer/dont-call-me-i-ll-call-you-side-effects-management-with-redux-saga-part-1-d0a92c3f81be)
 - [Part 2](https://medium.com/appsflyer/dont-call-me-i-ll-call-you-side-effects-management-with-redux-saga-part-2-cd16f6bcdbcd)
 
-
+- [Great gist with a saga example](https://gist.github.com/mentrie/f559ec88da8ff348913820d2da3e8ed7)
 
 ## Available Scripts
 
